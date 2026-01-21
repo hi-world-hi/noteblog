@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "我的第一篇文章.md",
+                "file": "AWS-Lambda.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "我的第一篇文章"
+              "title": "AWS-Lambda"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "我的第一篇文章.md",
+                "file": "AWS-Lambda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "我的第一篇文章 的反向链接列表"
+              "title": "AWS-Lambda 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "我的第一篇文章.md",
+                "file": "AWS-Lambda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "我的第一篇文章 的出链列表"
+              "title": "AWS-Lambda 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "我的第一篇文章.md",
+                "file": "AWS-Lambda.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "我的第一篇文章 的大纲"
+              "title": "AWS-Lambda 的大纲"
             }
           },
           {
@@ -196,7 +196,7 @@
   },
   "active": "6ff28755559b0e05",
   "lastOpenFiles": [
-    "AWS-Lambda.md",
-    "我的第一篇文章.md"
+    "我的第一篇文章.md",
+    "AWS-Lambda.md"
   ]
 }
