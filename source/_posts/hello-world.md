@@ -30,10 +30,17 @@ $ hexo generate
 
 More info: [Generating](https://hexo.io/docs/generating.html)
 
-### Deploy to remote sites
+### Deploy to github
 
-``` bash
-$ hexo deploy
+```bash
+$ git add .
+$ git commit -m "xxx"
+$ git push
 ```
 
+
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+
+
+butterfly 主题文档
+https://butterfly.js.org/
