@@ -1,5 +1,6 @@
 ---
 title: AWS Lambda
+abbrlink: f526bef9
 date: 2026-01-21 22:33:18
 tags:
 ---

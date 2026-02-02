@@ -1,5 +1,6 @@
 ---
 title: Ubuntu 22.04 上安装 Docker并使用国内源
+abbrlink: 9d464c1
 date: 2026-01-23 19:54:08
 tags:
 ---

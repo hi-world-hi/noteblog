@@ -1,5 +1,6 @@
 ---
 title: git设置多个远端仓库
+abbrlink: da49527b
 date: 2026-01-27 10:08:37
 tags:
 ---
