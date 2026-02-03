@@ -63,11 +63,16 @@ sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg: 将下载的 ASCII 格式的
 
 ```bash
 echo \
++  "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/ubuntu \
++  $(lsb_release -cs) stable"
+```
+错误：
+```bash
+echo \
   "deb [arch=(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/ubuntu \(. /etc/os-release && echo "$VERSION_CODENAME") stable" | \
   sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
 ```
 
-Bash
 
 ```
 ARCH=(dpkg --print-architecture) 和 RELEASE=(lsb_release -cs): 首先，将 dpkg --print-architecture 和 lsb_release -cs 命令的输出分别存储在 ARCH 和 RELEASE 变量中。
