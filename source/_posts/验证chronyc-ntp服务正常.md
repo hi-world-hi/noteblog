@@ -1,5 +1,6 @@
 ---
 title: 验证chronyc ntp服务正常
+abbrlink: 44a51621
 date: 2026-02-02 18:19:10
 tags:
 ---
