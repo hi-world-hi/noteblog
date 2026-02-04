@@ -58,7 +58,7 @@ favicon: /images/favicon.ico
 
 avatar:
   #img: /img/butterfly-icon.png
-  img: /images/tiger-icon.jpg
+  img: /images/tiger-icon.jpeg
   effect: false
 
 # Disable all banner images
