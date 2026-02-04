@@ -122,7 +122,8 @@ post_meta:
   # Home Page
   page:
     # Choose: created / updated / both
-    date_type: created
+    #date_type: created
+    date_type: false
     # Choose: date / relative
     date_format: date
     categories: true
@@ -132,7 +133,8 @@ post_meta:
     # Choose: left / center
     position: left
     # Choose: created / updated / both
-    date_type: both
+    #date_type: both
+    date_type: false
     # Choose: date / relative
     date_format: date
     categories: true
@@ -235,7 +237,8 @@ related_post:
   # Number of posts displayed
   limit: 6
   # Choose: created / updated
-  date_type: created
+  #date_type: created
+  date_type: false
 
 # Choose: 1 / 2 / false
 # 1: The 'next post' will link to old post
