@@ -54,10 +54,11 @@ social:
 # --------------------------------------
 
 #favicon: /img/favicon.png
-favicon: /img/favicon.ico
+favicon: /images/favicon.ico
 
 avatar:
-  img: /img/butterfly-icon.png
+  #img: /img/butterfly-icon.png
+  img: /images/tiger-icon.jpg
   effect: false
 
 # Disable all banner images
