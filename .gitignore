@@ -1,0 +1,9 @@
+node_modules/
+public/
+.db.json/
+.swp
+.swo
+*~
+.DS_Store
+Thumbs.db
+source/_posts/.obsidian/
